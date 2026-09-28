@@ -8,3 +8,6 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Use one data-driven catch-all content route for Xmatic's broad sitemap; it keeps product claims and repeated layouts consistent.
+- Keep product imagery bundled locally and sourced through imports; this avoids external image dependencies.
